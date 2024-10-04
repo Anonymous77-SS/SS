@@ -1,0 +1,8 @@
+gymnasium==0.27.1
+keyboard==0.13.5
+Minigrid==2.1.0
+numpy==1.23.3
+opencv_python==4.6.0.66
+PyQt5==5.15.11
+scikit_learn==1.1.2
+sortedcontainers==2.4.0
