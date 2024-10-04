@@ -24,6 +24,15 @@ The 'File' button on the top right shows a complete list of hotkeys.
 
 **Recommended Python Version:** 3.10.8
 
+**Recommended OS:** Windows
+
+Also tested on Linux (Description: Ubuntu 22.04.3 LTS, Release: 22.04, Codename: jammy)
+
+in case it crashes on Linux:
+
+`pip uninstall opencv-python`
+`pip install opencv-python-headless`
+
 **Libraries:**
 
 - https://pypi.org/project/PyQt5/
