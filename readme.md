@@ -30,7 +30,12 @@ Also tested on Linux (Description: Ubuntu 22.04.3 LTS, Release: 22.04, Codename:
 
 in case it crashes on Linux:
 
+run
+
 `pip uninstall opencv-python`
+
+then
+
 `pip install opencv-python-headless`
 
 **Libraries:**
