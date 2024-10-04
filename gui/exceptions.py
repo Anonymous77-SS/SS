@@ -1,9 +1,4 @@
-# This allows for us to run files internally in the folder if need be
-try:
-    from data_structure.skillunit import ActionUnit, SkillUnit
-except ImportError:
-    from data_structure.skillunit import ActionUnit, SkillUnit
-
+from data_structure.skillunit import ActionUnit, SkillUnit
 
 class InconsistentType(Exception):
     type = "Error"
